@@ -1,0 +1,35 @@
+html{
+    background-color: #FFF1DB;
+    text-align: center;
+}
+
+h1{
+    margin-top: 50px;
+    margin-bottom: 40px;
+}
+
+img{
+    border: 3px dotted #536493;
+    padding: 10px;
+    margin-bottom: 30px;
+}
+
+div{
+    background-color: #fffcf8;
+    margin-top: 40px;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 5%
+}
+
+h2{
+    margin-top: 70px;
+}
+
+h3{
+    font-weight: 400;
+}
+
+h4{
+    font-weight: 400;
+}

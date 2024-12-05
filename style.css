@@ -1,0 +1,57 @@
+html{
+    background-color: #FFF1DB;
+    text-align: center;
+}
+
+h1{
+    background-color: #decabc;
+    padding: 10px;
+    margin-top: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: 33%;
+    margin-right: 33%;
+
+}
+
+#dogs{
+    border: 20px solid white;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+div{
+    background-color: #fffcf8;
+    margin-top: 40px;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+h3{
+    font-size: 15px;
+    color: #444;
+    font-weight: 100;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+h2{
+    font-size: 30px;
+    margin-top: 50px;
+}
+
+#link_1{
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+
+.img_1{
+    border: 3px dotted #536493;
+    padding: 10px;
+    margin-bottom: 30px;
+}
+
+#hr2{
+    width: 50%;
+    margin-top: 40px;
+    margin-bottom: 50px;
+}
